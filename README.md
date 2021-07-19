@@ -12,15 +12,15 @@ Given any covid certificate QR Code data, the script returns an object containin
 Requires Node.js ≥ v14.15.4
 
 ```
-$> git clone <URL of this repository>
+$> git clone <this repository>
 $> cd eu-covid-certificate-js
 $> npm i
 ```
 
 ## Example usage
 
-- In `index.js`, use any Covid Certificate QR Code data (starting with `HC1:...`). By default, an example from [EU Digital Green Certificates - DGC Test data](https://github.com/eu-digital-green-certificates/dgc-testdata) is used.
-- Execute the script with `$> node index`.
+- In `index.js`, use any Covid Certificate QR Code data (starting with `HC1:...`). By default, an example from [EU Digital Green Certificates - DGC Test data](https://github.com/eu-digital-green-certificates/dgc-testdata) is provided.
+- Execute the script with `$> node index.js`.
 - Expected output :
 ```
 Certificate {
