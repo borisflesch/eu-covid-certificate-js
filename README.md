@@ -1,4 +1,4 @@
-# EuCovidCertificateJS
+# EU Covid Certificate JS
 
 JavaScript codebase to decode EU Covid Certificate following EU Digital COVID Certificates schemas and guidelines.
 
