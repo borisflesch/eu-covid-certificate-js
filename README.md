@@ -5,7 +5,7 @@ JavaScript codebase to decode EU Covid Certificate following EU Digital COVID Ce
 Given any covid certificate QR Code data, the script returns an object containing all data found within the certificate.
 
 
-![Output example](https://github.com/borisflesch/eu-covid-certificate-js/screenshots/output-example.png "Output example")
+![Output example](https://github.com/borisflesch/eu-covid-certificate-js/blob/main/screenshots/output-example.png?raw=true "Output example")
 
 ## Installation
 
