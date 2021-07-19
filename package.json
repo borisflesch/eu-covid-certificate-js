@@ -1,0 +1,15 @@
+{
+  "name": "eu-covid-certificate-js",
+  "version": "0.1.0",
+  "description": "EU Covid Certificate decoder, JavaScript based",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris Flesch",
+  "license": "MIT",
+  "dependencies": {
+    "base45": "^3.0.0",
+    "cbor": "^7.0.5"
+  }
+}
